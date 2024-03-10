@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "projectName": "#1. Introduction to Web Development",
+        "projectUrl": "https://github.com",
+        "demoUrl": "https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_1280.jpg",
+        "about": "The project centered around the creation of a foundational web structure using HTML, serving as an introductory step into web development. It aimed to establish the fundamental elements of a website, delineating the essential components required for structure, content, and navigation. The HTML file acted as a blueprint, showcasing header tags of varying levels, exemplifying their hierarchical importance in content presentation. Additionally, the project incorporated a navigation bar implemented through an unordered list ('ul') within a 'nav' element, providing links ('a' tags) to different sections of the site. The use of 'div' elements with unique IDs segmented the content, enabling future modifications and styling",
+        "date": "4/5/29",
+        "concepts": [
+            "HTML Tags",
+            "HTML Attributes",
+            "Tables",
+            "CSS Selectors"
+        ],
+        "lessons": "From this hands-on project, I obtained understanding of HTML's foundational role in web development. The project elucidated the importance of HTML elements in structuring a webpage, emphasizing the significance of semantic tags and their impact on content hierarchy and organization. It introduced me to metadata elements like 'meta' tags and the utilization of 'link' tags to associate external CSS stylesheets, emphasizing the vital role of these elements in influencing webpage behavior and appearance. Moreover, through the practical implementation of navigation bars and content divisions, I gained insight into the structuring and organization of web content, laying a solid groundwork for further exploration and advancement in web development techniques and practices."
+    },
+    {
+        "id": 2,
+        "projectName": "Blog Project",
+        "projectUrl": "https://github.com",
+        "demoUrl": "https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_1280.jpg",
+        "about": "The project I worked on was a personal blog constructed using HTML, focusing on showcasing travel experiences through photography and descriptive narratives. It featured sections dedicated to different travel destinations—Savanna, Australia, and Asia—each comprising a title, an image gallery, and detailed paragraphs describing the experiences. The HTML document utilized various elements, from metadata declarations in the head section to organized content divisions in the body, facilitating the display of multimedia content and textual descriptions",
+        "date": "4/5/29",
+        "concepts": [
+            "concept 1",
+            "concept 2",
+            "concept 3",
+            "concept 4"
+        ],
+        "lessons": "Through this project, I gained a hands-on understanding of HTML's role in structuring a blog-like webpage. It highlighted the importance of semantic HTML elements in categorizing and presenting content, such as using 'div' elements for content sections and 'section' tags for grouping related content within those sections. The implementation of image containers and nested spans for image galleries provided insights into organizing visual content within a webpage"
+    },
+    {
+        "id": 3,
+        "projectName": "Demo Project",
+        "projectUrl": "https://github.com",
+        "about": "This is what the project is about",
+        "demoUrl": "https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_1280.jpg",
+        "date": "4/5/29",
+        "concepts": [
+            "concept 1",
+            "concept 2",
+            "concept 3",
+            "concept 4"
+        ],
+        "lessons": "This is how the project works"
+    },
+    {
+        "id": 4,
+        "projectName": "Demo Project",
+        "projectUrl": "https://github.com",
+        "about": "This is what the project is about",
+        "demoUrl": "https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_1280.jpg",
+        "date": "4/5/29",
+        "concepts": [
+            "concept 1",
+            "concept 2",
+            "concept 3",
+            "concept 4"
+        ],
+        "lessons": "This is how the project works"
+    },
+    {
+        "id": 5,
+        "projectName": "Demo Project",
+        "projectUrl": "https://github.com",
+        "about": "This is what the project is about",
+        "demoUrl": "https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_1280.jpg",
+        "date": "4/5/29",
+        "concepts": [
+            "concept 1",
+            "concept 2",
+            "concept 3",
+            "concept 4"
+        ],
+        "lessons": "This is how the project works"
+    },
+    {
+        "id": 6,
+        "projectName": "Demo Project",
+        "projectUrl": "https://github.com",
+        "about": "This is what the project is about",
+        "demoUrl": "https://cdn.pixabay.com/photo/2014/03/29/09/17/cat-300572_1280.jpg",
+        "date": "4/5/29",
+        "concepts": [
+            "concept 1",
+            "concept 2",
+            "concept 3",
+            "concept 4"
+        ],
+        "lessons": "This is how the project works"
+    }
+]
