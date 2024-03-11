@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendFolio/static/css/main.f855e6bc.css",
+    "main.js": "/FrontendFolio/static/js/main.96c1b367.js",
+    "index.html": "/FrontendFolio/index.html",
+    "main.f855e6bc.css.map": "/FrontendFolio/static/css/main.f855e6bc.css.map",
+    "main.96c1b367.js.map": "/FrontendFolio/static/js/main.96c1b367.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.96c1b367.js"
+  ]
+}
